@@ -1,0 +1,7 @@
+backend/telemetry.db
+backend/*.db
+backend/go.sum
+dashboard/node_modules
+dashboard/dist
+dashboard/.vite
+
